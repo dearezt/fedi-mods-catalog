@@ -1,7 +1,7 @@
 {
-  "name": "LN to Gopay",
-  "id": "ln2gopay",
-  "url": "https://btcln.app/vm/gopay",
-  "iconUrl": "https://btcln.app/assets/icons/ln2gopay.png",
+  "name": "QRIS ATM",
+  "id": "qrisatm",
+  "url": "https://btcln.app/?ref=fediapp",
+  "iconUrl": "https://btcln.app/favicon.ico",
   "description": "Swap Lightning to Gopay for Indonesian Rupiah"
 }
